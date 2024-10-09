@@ -1708,10 +1708,10 @@ react-toastify@^10.0.5:
   dependencies:
     clsx "^2.1.0"
 
-react-use-websocket@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/react-use-websocket/-/react-use-websocket-3.0.0.tgz#754cb8eea76f55d31c5676d4abe3e573bc2cea04"
-  integrity sha512-BInlbhXYrODBPKIplDAmI0J1VPM+1KhCLN09o+dzgQ8qMyrYs4t5kEYmCrTqyRuMTmpahylHFZWQXpfYyDkqOw==
+react-use-websocket@4.9.0:
+  version "4.9.0"
+  resolved "https://registry.yarnpkg.com/react-use-websocket/-/react-use-websocket-4.9.0.tgz#d0b14d3a724e3065d0ca0cb7e9908b85aa247566"
+  integrity sha512-/6OaCMggQCTnryCAsw/N+/wfH7bBfIXk5WXTMPdyf0x9HWJXLGUVttAT5hqAimRytD1dkHEJCUrFHAGzOAg1eg==
 
 react@^18.2.0:
   version "18.3.1"
