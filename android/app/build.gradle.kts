@@ -6,7 +6,7 @@ val koin_android_version = "4.0.0"
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
-    kotlin("plugin.serialization") version "2.0.20"
+    kotlin("plugin.serialization") version "2.0.21"
 //    alias(libs.plugins.compose.compiler) apply false
     id("org.jetbrains.kotlin.plugin.compose") version "2.0.20"
 }
