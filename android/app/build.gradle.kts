@@ -1,4 +1,4 @@
-val ktor_version = "2.3.12"
+val ktor_version = "3.0.0"
 val nav_version = "2.8.2"
 val vm_version = "2.6.1"
 val coroutines_version = "1.3.9"
