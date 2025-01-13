@@ -20,7 +20,7 @@
     "react-toastify": "^10.0.6",
     "react-use-websocket": "4.10.1",
     "styled-components": "^6.1.13",
-    "uuid": "^10.0.0",
+    "uuid": "^11.0.5",
     "vite-plugin-svgr": "^4.2.0"
   },
   "devDependencies": {
